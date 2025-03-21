@@ -81,10 +81,10 @@ _Please note that in interest of space, the pipelines have been compressed to fi
 ![Listing Images](https://github.com/user-attachments/assets/945eedb3-e67e-4423-8580-fec94e7353e6)
 
 - While it's a larger automation, it's actually fairly simple in nature. The first step is to generate different mockup images for the listing. In it's current form, it generates 8 options:
-1. The highres image with a watermark
-2. The second and third are room shots from Printify. Technically the second would be from Dynamic Mockups, but that is currently disabled on the flow.
-3. The next four are the various cuts depending on the image size (due to cropping from different aspect ratios) which we pull directly from Printify.
-4. 
+   1. The highres image with a watermark
+   2. The second and third are room shots from Printify. Technically the second would be from Dynamic Mockups, but that is currently disabled on the flow.
+   3. The next four are the various cuts depending on the image size (due to cropping from different aspect ratios) which we pull directly from Printify.
+   
 ![chrome_k0gc6As6mQ](https://github.com/user-attachments/assets/9031c944-6347-42c4-bc8c-ca7756f4f919)
 ![chrome_qeef8JcGEN](https://github.com/user-attachments/assets/c0aa72da-8172-41d0-be04-71b46ce486c4)
 ![chrome_1YqwHhyl0B](https://github.com/user-attachments/assets/d53f2690-2cea-483d-aae0-051abdaee805)
